@@ -1,0 +1,17 @@
+p {
+  background-color: yellow;
+}
+
+#first-span {
+  width: 500px;
+  height: 500px;
+  background-color: lightblue;
+}
+
+#second-span {
+  background-color: lightgreen;
+}
+
+#third-span {
+  background-color: lightgray;
+}
